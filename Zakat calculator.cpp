@@ -1,3 +1,5 @@
+//ZULQARNAIN SAEED
+//ZAKAT CALCULATOR
 #include <iostream>
 using namespace std;
 
@@ -34,7 +36,7 @@ void input() {
     cin >> cash_for_future_purpose;
     cout << "Cash given out in loans: ";
     cin >> cash_given_as_loans;
-    cout << "Investments, shares, saving certificates, pensions funded by money in one’s possession: ";
+    cout << "Investments, shares, saving certificates, pensions funded by money in oneâ€™s possession: ";
     cin >> investments_shares;
     cout << endl;
     cout << "---------Gold and Silver------" << endl;
